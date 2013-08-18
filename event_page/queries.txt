@@ -1,0 +1,201 @@
+google.com.hk,google.com.hk__,http://www.google.com.hk/search?hl=zh-CN&newwindow=1&safe=strict&site=&source=hp&q=%s&btnG=Google+%E6%90%9C%E7%B4%A2
+Suda Search,s.suda123.com,http://s.suda123.com/?q=%s
+google.com.tw,google.com.tw___,http://www.google.com.tw/search?hl=en&newwindow=1&site=&source=hp&q=%s&btnG=Search
+狗狗搜索,gougou.com,http://www.gougou.com/search?search=%s&id=10005804
+淘宝闪电搜索,search8.taobao.com,http://search8.taobao.com/browse/search_auction.htm?q=%s&pid=mm_10532670_0_0&search_type=auction&commend=all&at_topsearch=1
+Google,google.com_,https://www.google.com/search?q=%s&btnG=Google+%E6%90%9C%E7%B4%A2&meta=&aq=f&oq=
+Google,google.com,{google:baseURL}search?q=%s&{google:RLZ}{google:originalQueryForSuggestion}{google:assistedQueryStats}{google:searchFieldtrialParameter}{google:searchClient}{google:sourceId}{google:instantExtendedEnabledParameter}ie={inputEncoding}
+中国雅虎,cn.yahoo.com,http://search.cn.yahoo.com/search?ei={inputEncoding}&fr=crmas&p=%s
+Bing,bing.com,http://www.bing.com/search?setmkt=zh-CN&q=%s
+360sou.com,360sou.com,http://www.360sou.com/s?ie=utf-8&src=hao_phome&_re=1&q=%s
+3c.tmall.com,3c.tmall.com,http://list.tmall.com/search_product.htm?q=%s&user_action=initiative&at_topsearch=1&sort=st&type=p&vmarket=72&cat=50022738%2C50024400%2C50024401%2C50043917%2C50024399%2C50024406%2C50024407%2C50024410%2C50025047%2C50047403
+56视频搜索,56.com,http://so.56.com/index?charset=utf-8&key=%s
+amazon.cn,amazon.cn_,http://www.amazon.cn/s/ref=nb_sb_ss_i_0_10?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=%s&sprefix=jiangcheng%2Caps%2C0
+amazon.cn,amazon.cn,http://www.amazon.cn/s/ref=nb_sb_ss_i_0_7?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&url=search-alias%3Daps&field-keywords=%s&sprefix=shubiao%2Caps%2C285
+amazon.com,amazon.com,http://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=%s
+Android Enthusiasts Stack Exchange,android.stackexchange.com,http://android.stackexchange.com/search?q=%s
+app.baidu.com,app.baidu.com,http://app.baidu.com/appweb/search?w=%s
+as.baidu.com,as.baidu.com,http://m.baidu.com/s?st=10a001&tn=webmkt&pre=web_am_index&word=%s
+Ask Different,apple.stackexchange.com,http://apple.stackexchange.com/search?q=%s
+ATOMac (en),pyatom.com,http://pyatom.com/w/index.php?title=Special:Search&search=%s
+baidu.com,baidu.com___________,http://www.baidu.com/s?wd=%s&rsv_bp=0&ch=&tn=baidu&bar=&rsv_spt=3&ie=utf-8&rsv_sug3=3&rsv_sug4=109&rsv_sug1=2&oq=wangzi&rsp=1&f=3&rsv_sug5=0&rsv_sug=0&rsv_sug2=0&inputT=3610
+baidu.com,baidu.com__,http://www.baidu.com/s?wd=%s&rsv_bp=0&ch=&tn=baidu&bar=&rsv_spt=3&ie=utf-8&rsv_sug3=9&rsv_sug4=720&rsv_sug1=3&oq=tengxunshouji&rsp=0&f=3&rsv_sug5=0&rsv_sug=0&rsv_sug2=0&inputT=3073
+baidu.com,baidu.com________,http://www.baidu.com/s?wd=%s&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&rsv_sug3=8&rsv_sug=0&rsv_sug4=543&rsv_sug1=5&oq=xi%27andazhuan&rsp=0&f=3&rsv_sug2=1&rsv_sug5=0&inputT=5090
+baidu.com,baidu.com___,http://www.baidu.com/s?wd=%s&rsv_bp=0&ch=&tn=baidu&bar=&rsv_spt=3&ie=utf-8&rsv_sug3=7&rsv_sug4=951&oq=bingyuhu&rsp=1&f=3&rsv_sug5=0&rsv_sug=0&rsv_sug2=0&inputT=2756
+baidu.com,baidu.com,http://www.baidu.com/s?wd=%s&rsv_bp=0&ch=&tn=baidu&bar=&rsv_spt=3&ie=utf-8&rsv_sug3=4&rsv_sug=0&rsv_sug4=645&inputT=1759
+baidu.com,baidu.com_______,http://www.baidu.com/s?wd=%s&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&rsv_sug3=4&rsv_sug1=2&rsv_sug4=272&oq=bingyuh&rsp=1&f=3&rsv_sug5=0
+baidu.com,baidu.com______,http://www.baidu.com/s?wd=%s&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&rsv_sug3=6&rsv_sug=0&rsv_sug4=5244&rsv_sug1=4
+baidu.com,baidu.com__________,http://www.baidu.com/s?wd=%s&rsv_bp=0&ch=&tn=baidu&bar=&rsv_spt=3&ie=utf-8&rsv_sug3=19&rsv_sug1=7&rsv_sug4=50494&oq=2013+ming&sug=2013%E6%98%8E%E9%94%90%E6%80%8E%E4%B9%88%E6%A0%B7&rsv_n=1&rsp=9&rsv_sug5=0&rsv_sug=0&inputT=12932
+baidu.com,baidu.com_________,http://www.baidu.com/s?wd=%s&rsv_spt=1&issp=1&rsv_bp=0&ie=utf-8&tn=baiduhome_pg&rsv_sug3=6&rsv_sug=0&rsv_sug4=501&rsv_sug1=2
+baidu.com,baidu.com____,http://www.baidu.com/s?wd=%s&rsv_bp=0&ch=&tn=baidu&bar=&rsv_spt=3&ie=utf-8&rsv_sug3=8&rsv_sug=0&rsv_sug1=6&rsv_sug4=1056&inputT=8674
+baidu.com,baidu.com_,http://www.baidu.com/s?wd=%s&rsv_bp=0&ch=&tn=baidu&bar=&rsv_spt=3&ie=utf-8&rsv_sug3=9&inputT=4884
+baidu.com,baidu.com_____,http://www.baidu.com/s?wd=%s&rsv_bp=0&ch=&tn=baidu&bar=&rsv_spt=3&ie=utf-8&rsv_n=2&rsv_sug3=1&inputT=479
+baike.baidu.com,baike.baidu.com,http://baike.baidu.com/search/word?word=%s&pic=1&sug=1&enc=utf8&oq=zhouyunp&rsp=%5Bobject+Object%5D
+baike.baidu.com,baike.baidu.com__,http://baike.baidu.com/search/word?word=%s&pic=1&sug=1&enc=utf8&oq=dongwuzhuang&rsp=%5Bobject+Object%5D
+baike.baidu.com,baike.baidu.com_,http://baike.baidu.com/search/word?word=%s&pic=1&sug=1&oq=%D0%D0%B3%B5%BC%C7%C2%BC%D2%C7&rsp=-1
+baixing.com,baixing.com,http://xian.baixing.com/root/?query=%s
+Bicycles,bicycles.stackexchange.com,http://bicycles.stackexchange.com/search?q=%s
+Bing Dictionary,dict.bing.com.cn,http://dict.bing.com.cn/#%s
+Bitbucket,bitbucket.org,https://bitbucket.org/repo/all/?name=%s
+bjdbxh.org.cn,bjdbxh.org.cn,http://www.bjdbxh.org.cn/news/ss/ss.html?SubSys=NS&Keyword=%s&s_type=title
+blogkid.net,blogkid.net,http://www.blogkid.net/?s=%s
+book.douban.com,book.douban.com_,http://book.douban.com/subject_search?search_text=%s&cat=1001
+book.douban.com,book.douban.com___,http://book.douban.com/subject_search?search_text=%s&cat=1001
+book.douban.com,book.douban.com____,http://book.douban.com/subject_search?search_text=%s&cat=1001
+book.zi5.me,book.zi5.me,http://book.zi5.me/search/?key=%s
+chat.stackexchange.com Chat,chat.stackexchange.com,http://chat.stackexchange.com/search?q=%s
+cnepub.com,cnepub.com,http://www.cnepub.com/search?search_text=%s
+CNN.com,cnn.com,http://www.cnn.com/search/?query=%s
+coay.com,coay.com,http://coay.com/search.php?q=%s
+Code Review Stack Exchange,codereview.stackexchange.com,http://codereview.stackexchange.com/search?q=%s
+Computational Science,scicomp.stackexchange.com,http://scicomp.stackexchange.com/search?q=%s
+Computer Science,cs.stackexchange.com,http://cs.stackexchange.com/search?q=%s
+Confluence,10.92.147.153,http://10.92.147.153:8090/dosearchsite.action?queryString=%s
+Confluence,lmh.shouji.ztexa.com,http://localhost:8090/dosearchsite.action?queryString=%s
+Confluence,pst-server2.shouji.ztexa.com,http://lmh.shouji.ztexa.com:8090/dosearchsite.action?queryString=%s
+dangdang.com,dangdang.com,http://search.dangdang.com/search.php?key=%s&SearchFromTop=1&catalog=
+developer.force.com,developer.force.com,http://www.developerforce.com/search/search.php?q=%s&x=-1112&y=-79&site=All&output=xml_no_dtd&sort=date%3AD%3AL%3Ad1&client=google-csbe&cx=005575733618104622983%3A0wh7r43n1fy
+dict.baidu.com,dict.baidu.com,http://dict.baidu.com/s?wd=%s&f=3&dt=explain
+dict.yodao.com,dict.youdao.com,http://dict.youdao.com/search?q=%s&keyfrom=dict.index
+Dictionary.com,dictionary.reference.com,http://dictionary.reference.com/browse/%s?r=75&src=ref&ch=dic
+ditu.baidu.com,ditu.baidu.com,http://ditu.baidu.com/?word=%s&ft=tab
+DNSPod.CN,dnspod.cn,https://www.dnspod.cn/Domain#%s
+douban.com,douban.com,http://www.douban.com/search?q=%s
+DuckDuckGo,duckduckgo.com,https://duckduckgo.com/?q=%s
+ec2-184-73-51-98.compute-1.amazonaws.com,ec2-184-73-51-98.compute-1.amazonaws.com,http://ec2-184-73-51-98.compute-1.amazonaws.com/project/search/?query=%s
+Economics,economics.stackexchange.com,http://economics.stackexchange.com/search?q=%s
+Electrical Engineering Stack Exchange,electronics.stackexchange.com,http://electronics.stackexchange.com/search?q=%s
+English Language & Usage Stack Exchange,english.stackexchange.com,http://english.stackexchange.com/search?q=%s
+Feedbooks,feedbooks.com,http://www.feedbooks.com/search?query=%s
+Fonts.com,urbanfonts.com,http://www.fonts.com/findfonts/searchresults.htm?kid=%s
+forfrigg.com,forfrigg.com,http://forfrigg.com/search.html?cx=016072704462556012637%3Ay1n-2xd86ve&cof=FORID%3A10&ie=UTF-8&hl=zh-CN&q=%s&sa=%E7%94%B5%E5%AD%90%E4%B9%A6%E6%90%9C%E7%B4%A2&siteurl=forfrigg.com%2F
+Freelancing Stack Exchange,freelancing.stackexchange.com,http://freelancing.stackexchange.com/search?q=%s
+Gaming,gaming.stackexchange.com,http://gaming.stackexchange.com/search?q=%s
+GitHub,github.com,https://github.com/search?q=%s&ref=opensearch
+Google Translate,translate.google.com,http://translate.google.cn/?source=osdd#auto|auto|%s
+google.com.hk,google.com.hk_,http://www.google.com.hk/search?hl=zh-CN&newwindow=1&safe=strict&site=&source=hp&q=%s&btnG=Google+%E6%90%9C%E7%B4%A2
+google.com.tw,google.com.tw_____,http://www.google.com.tw/search?newwindow=1&site=&source=hp&q=%s&btnG=%E6%90%9C%E5%B0%8B
+google.com.tw,google.com.tw__,http://www.google.com.tw/search?hl=en&newwindow=1&site=&source=hp&q=%s&btnG=Search
+google.com.tw,google.com.tw_,http://www.google.com.tw/search?hl=en&newwindow=1&tbo=d&site=&source=hp&q=%s&btnG=Search
+Gutenberg (en),gutenberg.org,http://www.gutenberg.org/w/index.php?title=Special:Search&search=%s
+History Stack Exchange,history.stackexchange.com,http://history.stackexchange.com/search?q=%s
+Home Improvement,diy.stackexchange.com,http://diy.stackexchange.com/search?q=%s
+huaban.com,huaban.com,http://huaban.com/?title=%s&category=
+huihui.cn,huihui.cn,http://www.huihui.cn/search?q=%s
+IBM Search,platform.com,http://www.ibm.com/fscripts/search/opensearch/search.fcgi?q=%s&lang={language?}&en=utf&startIndex={startIndex?}&hpp={count?}&format=html
+Iconfinder,iconfinder.com,http://www.iconfinder.com/search/?q=%s
+ikandou.com,ikandou.com,http://ikandou.com/search/?q=%s
+image.baidu.com,image.baidu.com,http://image.baidu.com/i?tn=baiduimage&ipn=r&ct=201326592&cl=2&fm=index&lm=-1&st=-1&sf=2&fmq=&pv=&ic=0&nc=1&z=&fb=0&istype=2&ie=utf-8&word=%s
+images.google.com,images.google.com,http://images.google.com/search?num=10&hl=zh-CN&newwindow=1&safe=strict&site=&tbm=isch&source=hp&biw=1366&bih=655&q=%s&btnG=%E6%8C%89%E5%9B%BE%E7%89%87%E6%90%9C%E7%B4%A2&oq=right+arrow&gs_l=img.3.1.0i19l10.42.3514.0.5280.16.14.0.2.2.0.337.2146.3j6j2j2.13.0...0.0...1ac.1.BNxkYfFIbdE
+isbndb.com,isbndb.com,http://isbndb.com/search-all.html?kw=%s
+IT Security Stack Exchange,security.stackexchange.com,http://security.stackexchange.com/search?q=%s
+ITeye,ivyloo.iteye.com,http://www.iteye.com/search?type=all&query=%s
+Jenkins,pst-server.shouji.ztexa.com,http://pst-server.shouji.ztexa.com:8080/search/?q=%s
+Jenkins,10.92.147.170,http://10.92.147.170:8080/search/?q=%s
+KickassTorrents,kat.ph,http://kickass.to/search/%s/?from=opensearch
+kuwo.cn,kuwo.cn,http://sou.kuwo.cn/ws/NSearch?key=%s&type=all
+library.nu search,library.nu,http://library.nu/search?q=%s
+LMGTFY,lmgtfy.com,http://letmegooglethatforyou.com/?q=%s
+map.baidu.com,map.baidu.com,http://map.baidu.com/?word=%s&ft=tab
+Mathematics Stack Exchange,math.stackexchange.com,http://math.stackexchange.com/search?q=%s
+Meta Stack Overflow,meta.stackoverflow.com,http://meta.stackoverflow.com/search?q=%s
+movie.douban.com,movie.douban.com__,http://movie.douban.com/subject_search?search_text=%s&cat=1002
+movie.douban.com,movie.douban.com_,http://movie.douban.com/subject_search?search_text=%s&cat=1002
+mp3.baidu.com,mp3.baidu.com,http://music.baidu.com/search?key=%s
+mp3.baidu.com,mp3.baidu.com__,http://mp3.baidu.com/m?f=3&rf=idx&tn=baidump3&ct=134217728&lf=&rn=&word=%s&lm=-1&oq=taylor&rsp=0
+mp3.baidu.com,mp3.baidu.com_,http://mp3.baidu.com/m?f=3&rf=idx&tn=baidump3&ct=134217728&lf=&rn=&word=%s&lm=-1&oq=%C4%C7%D0%A9&rsp=3
+Mtime影视搜索,mtime.com,http://search.mtime.com/search/?%s
+music.douban.com,music.douban.com,http://music.douban.com/subject_search?search_text=%s&cat=1003
+music.qq.com,music.qq.com,http://music.qq.com/portal_v2/static/search_result.html?search_input=%s&search_bt.x=18&search_bt.y=11
+mytharcher.github.com,mytharcher.github.com,http://mytharcher.github.com/search/?q=%s
+net.cn,net.cn,http://pandavip.www.net.cn/cgi-bin/Check.cgi?queryType=0&domain1=%s&image.x=0&image.y=0&domain=yueli&big5=n&sign=2&url=www.net.cn&com=yes&cn=yes&mobi=yes&net=yes&comcn=yes
+news.baidu.com,news.baidu.com,http://news.baidu.com/ns?word=%s&tn=news&from=news&cl=2&rn=20&ct=1&oq=huazhongk&f=3&rsp=0
+nowtorrents.com,nowtorrents.com,http://www.nowtorrents.com/torrents.php?qt=%s&submit.x=-1109&submit.y=-56&submit=submit
+persistence.js,persistencejs.org,http://persistencejs.org/doku.php?do=search&id=%s
+Personal Finance and Money,money.stackexchange.com,http://money.stackexchange.com/search?q=%s
+Personal Productivity,productivity.stackexchange.com,http://productivity.stackexchange.com/search?q=%s
+pic.baidu.com,pic.baidu.com,http://stu.baidu.com/i?objurl=%s&filename=&rt=0&rn=10&ftn=indeximage&ct=1&tn=baiduimagepc
+post.baidu.com,post.baidu.com,http://tieba.baidu.com/f?kw=%s
+ppurl.com,ppurl.com,http://www.ppurl.com/?s=%s
+Programmers,programmers.stackexchange.com,http://programmers.stackexchange.com/search?q=%s
+Programming Puzzles & Code Golf Stack Exchange,codegolf.stackexchange.com,http://codegolf.stackexchange.com/search?q=%s
+Python,docs.python.org,http://docs.python.org//search.html?q=%s&check_keywords=yes&area=default
+Python Website,python.org,http://www.google.com/search?q=site%3Awww.python.org+{searchTerms?}
+pyvideo.org,pyvideo.org,http://pyvideo.org/search?q=%s
+Quora,quora.com__,http://www.quora.com/opensearch/query?q=%s&pw={startPage?}
+read.douban.com,read.douban.com,http://read.douban.com/search?q=%s
+Reverse Engineering Stack Exchange,reverseengineering.stackexchange.com,http://reverseengineering.stackexchange.com/search?q=%s
+RubyGems.org,rubygems.org,http://rubygems.org/search?query=%s
+Science Fiction & Fantasy Stack Exchange,scifi.stackexchange.com,http://scifi.stackexchange.com/search?q=%s
+Search libusb,libusb.org,http://www.libusb.org/search?q=%s&page={startPage}
+Search Portable Python,portablepython.com,http://portablepython.com/search?q=%s&page={startPage}
+Search PyInstaller,pyinstaller.org,http://www.pyinstaller.org/search?q=%s&page={startPage}
+Search PyYAML,pyyaml.org,http://pyyaml.org/search?q=%s&page={startPage}
+search.chinaunix.net,search.chinaunix.net,http://bbs.chinaunix.net/search.php?mod=my&source=domain&q=%s
+SegmentFault,renren.segmentfault.com,http://segmentfault.com/search?q=%s
+Server Fault,serverfault.com,http://serverfault.com/search?q=%s
+share.sina.com.cn,share.sina.com.cn,http://share.sina.com.cn/search_engine/search_knowledge_engine.php?title=%s&search=&key=%C6%BD%C8%E7%C3%C0%CC%C4&classid=0&gjss=0&type=0&tag=0
+shu.im,shu.im,http://shu.im/search?q=%s
+skycn.com,skycn.com,http://skycn.com/search.php?ss_name=%s&sf=index
+smzdm.com,smzdm.com,http://www.smzdm.com/?s=%s
+so.360.cn,so.360.cn,http://so.360.cn/s?ie=utf-8&src=hao_phome&q=%s
+so.com,so.com,http://www.so.com/s?ie=utf-8&src=360sou_home&q=%s&_re=0
+so.com,so.com__,http://www.so.com/s?ie=utf-8&src=360sou_home&_re=1&q=%s
+sogou.com,sogou.com,http://www.sogou.com/web?query=%s&_asf=www.sogou.com&_ast=1373038468&w=01019900&p=40040100&ie=utf8&sut=5566&sst0=1373038467893&lkt=0%2C0%2C0
+Sphinx,sphinx.pocoo.org,http://sphinx.pocoo.org/search.html?q=%s&check_keywords=yes&area=default
+Sphinx,sphinx.pocoo.org_,http://sphinx.pocoo.org/search.html?q=%s&check_keywords=yes&area=default
+Stack Exchange,stackexchange.com,http://stackexchange.com/search?q=%s
+Stack Overflow,stackoverflow.com,http://stackoverflow.com/search?q=%s
+Steam Search,store.steampowered.com,http://store.steampowered.com/search/?ref=os&term=%s
+support.boundary.com,support.boundary.com,http://support.boundary.com/customer/portal/articles/search?q=%s
+Sustainable Living Stack Exchange,sustainability.stackexchange.com,http://sustainability.stackexchange.com/search?q=%s
+Teamhost,teamhost.org,http://www.teamhost.org/search?q=%s
+techsingular.net,techsingular.net,http://techsingular.net/?s=%s
+TinyPic,tinypic.com,http://tinypic.com/search.php?tag=%s&type=images&utm_source=opensearch
+toorgle.com,toorgle.com,http://www.toorgle.net/results.php?q=%s&security=666
+topman.github.com,topman.github.com,http://topman.github.com/search/?q=%s
+Torrent MetaSearch,metasearch.torrentproject.com,http://metasearch.torrentproject.com/?search=%s
+Torrent Project,torrentproject.com,https://torrentproject.com/?hl=en&num=20&start=0&s=%s
+Torrentz Search,torrentz.eu,http://torrentz.eu/search?q=%s
+towerjoo.github.io,towerjoo.github.io,http://towerjoo.github.io/search/?q=%s
+Travel Stack Exchange,travel.stackexchange.com,http://travel.stackexchange.com/search?q=%s
+travelinxian.github.com,travelinxian.github.com,http://travelinxian.github.com/search/?q=%s
+travelinxian.github.io,travelinxian.github.io,http://travelinxian.github.io/search/?q=%s
+tv.hao123.com,tv.hao123.com,http://tv.hao123.com/allsearch?q=%s
+Twitter,twitter.com,http://twitter.com/search?q=%s
+Unix & Linux Stack Exchange,unix.stackexchange.com,http://unix.stackexchange.com/search?q=%s
+used.dangdang.com,used.dangdang.com,http://used.dangdang.com/search/?key=%s
+vdisk.weibo.com,vdisk.weibo.com,http://vdisk.weibo.com/search/?type=public&keyword=%s
+vertor.com,vertor.com,http://www.vertor.com/index.php?mod=search&search=&cid=0&words=%s
+video.baidu.com,video.baidu.com,http://v.baidu.com/v?word=%s&ct=301989888&rn=20&pn=0&db=0&s=0&fbl=800
+washingtonpost.com,washingtonpost.com,http://www.washingtonpost.com/newssearch/search.html?st=%s&submit=%E6%8F%90%E4%BA%A4
+Wikipedia (en),en.wikipedia.org,http://en.wikipedia.org/w/index.php?title=Special:Search&search=%s
+Wordnik,wordnik.com,http://www.wordnik.com/words/%s
+xa.meituan.com,xa.meituan.com,http://xa.meituan.com/s/?w=%s
+xabus.cn,xabus.cn,http://www.xabus.cn/5284.asp?k=pp&q=%s
+Xiami Search,xiami.com,http://www.xiami.com/search/index/pos/11?key=%s
+yahoo.com,search.yahoo.com,http://search.yahoo.com/search;_ylt=Aod6tSt2ObOYk2uoWItv_2KbvZx4?p=%s&toggle=1&cop=mss&ei=UTF-8&fr=yfp-t-900
+Youdao Dict,dict.yodao.com_,http://dict.youdao.com/search?q=%s&keyfrom=dict.plugin
+YouTorrent,youtorrent.com,http://www.youtorrent.com/tag/?q=%s
+YouTube Video Search,youtube.com,http://www.youtube.com/results?search_query=%s&page={startPage?}&utm_source=opensearch
+yyets.com,yyets.com,http://www.yyets.com/search/index?keyword=%s&type=
+zhangmen.baidu.com,zhangmen.baidu.com,http://zhangmen.baidu.com/search.jsp?f=ms&tn=baidump3&ct=134217728&lf=&rn=&word=%s
+zhuanli.baidu.com,zhuanli.baidu.com,http://zhuanli.baidu.com/s?tn=baiduzhuanli&ie=gb2312&bs=&cl=3&si=zhuanli.baidu.com&ct=2097152&wd=%s&ver=3
+电驴资源,verycd.com,http://www.verycd.com/search/entries/%s
+射手网字幕搜索,shooter.cn,http://shooter.cn/sub/?searchword=%s
+搜搜,image.soso.com,http://www.soso.com/q?cid=ie7.os&ie=utf-8&w=%s
+淘宝购物,3c.etao.com,http://search1.taobao.com/browse/search_auction.htm?q=%s
+淘宝搜索,s.taobao.com_,http://s.taobao.com/search?q=%s
+淘宝搜索,s.taobao.com,http://s.taobao.com/search?q=%s
+天猫,tmall.com__,http://list.mall.taobao.com/search_dispatcher.htm?user_action=initiative&at_browserse=1&q=%s
+天猫,list.mall.taobao.com,http://list.mall.taobao.com/search_dispatcher.htm?user_action=initiative&at_browserse=1&q=%s
+天猫,login.tmall.com,http://list.mall.taobao.com/search_dispatcher.htm?user_action=initiative&at_browserse=1&q=%s
+西安庆通汽车销售服务有限公司(网上4S店),xadfrc.com,http://www.xadfrc.com/search.aspx?q=%s
+小众软件搜索,appinn.com,http://www.appinn.com/search/?cx=008745974804865311006%3Azm_itmaeyj8&cof=FORID%3A9&ie=UTF-8&q=%s
+一淘网,etao.com,http://s.etao.com/search?q=%s
+音悦台MV搜索,yinyuetai.com,http://www.yinyuetai.com/search/mv?keyword=%s
+优酷视频搜索,edu.youku.com,http://so.youku.com/search/video/q_%s
+有道购物搜索,gouwu.youdao.com,http://gouwu.youdao.com/search?q=%s&keyfrom=gouwu.plugin
+有道图片搜索,image.youdao.com,http://image.youdao.com/search?q=%s&keyfrom=plugin
+有道网页搜索,yodao.com,http://www.youdao.com/search?q=%s&keyfrom=plugin
+知乎,zhihu.com,http://www.zhihu.com/search?q=%s
