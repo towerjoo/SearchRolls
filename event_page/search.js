@@ -1,5 +1,5 @@
 function getAvailabelSEs(){
-    return ["baidu", "baidu zhidao", "baidu baike", "google hongkong", "wikipedia", ];
+    return ["baidu", "baidu zhidao", "baidu baike", "google hongkong", "google taiwan", "wikipedia", ];
 }
 
 function getSearchQueries(se){

@@ -1,38 +1,96 @@
 <html>
-<head><title>Configure the search engines</title>
-<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
-</head>
+	<head>
+		<title>Configure the search engines</title>
+		<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" media="screen">
+		<link href="custom.css" rel="stylesheet" media="screen">
+	</head>
 
-<body>
+	<body>
+		<div class="row">
+			<div class="span8">
+				<div class="hero-unit">
+					<div class="alert alert-success hidden">
+						<button type="button" class="close" data-dismiss="alert">&times;</button>
+						<p>Save successfully!</p>
+					</div>
+					
+					<h5>Edit it as you want and order counts!</h5>	
+					<p>
+						<div class="input-prepend input-append">
+						  <span class="add-on">1</span>
+						  <input class="input-small height30" id="se1" type="text" />
+						  <input class="input-xlarge height30" type="text" id="query1"/>
+						  <button class="btn btn-clear" type="button">Clear</button>
+						</div>
+						<div class="input-prepend input-append">
+						  <span class="add-on">2</span>
+						  <input class="input-small height30" id="se2" type="text" />
+						  <input class="input-xlarge height30" type="text" id="query2"/>
+						  <button class="btn btn-clear" type="button">Clear</button>
+						</div>
+						<div class="input-prepend input-append">
+						  <span class="add-on">3</span>
+						  <input class="input-small height30" id="se3" type="text" />
+						  <input class="input-xlarge height30" type="text" id="query3"/>
+						  <button class="btn btn-clear" type="button">Clear</button>
+						</div>
+						<div class="input-prepend input-append">
+						  <span class="add-on">4</span>
+						  <input class="input-small height30" id="se4" type="text" />
+						  <input class="input-xlarge height30" type="text" id="query4"/>
+						  <button class="btn btn-clear" type="button">Clear</button>
+						</div>
+						<div class="input-prepend input-append">
+						  <span class="add-on">5</span>
+						  <input class="input-small height30" id="se5" type="text" />
+						  <input class="input-xlarge height30" type="text" id="query5"/>
+						  <button class="btn btn-clear" type="button">Clear</button>
+						</div>
+						<div class="input-prepend input-append">
+						  <span class="add-on">6</span>
+						  <input class="input-small height30" id="se6" type="text" />
+						  <input class="input-xlarge height30" type="text" id="query6"/>
+						  <button class="btn btn-clear" type="button">Clear</button>
+						</div>
+						<div class="input-prepend input-append">
+						  <span class="add-on">7</span>
+						  <input class="input-small height30" id="se7" type="text" />
+						  <input class="input-xlarge height30" type="text" id="query7"/>
+						  <button class="btn btn-clear" type="button">Clear</button>
+						</div>
+						<div class="input-prepend input-append">
+						  <span class="add-on">8</span>
+						  <input class="input-small height30" id="se8" type="text" />
+						  <input class="input-xlarge height30" type="text" id="query8"/>
+						  <button class="btn btn-clear" type="button">Clear</button>
+						</div>
+						<div class="input-prepend input-append">
+						  <span class="add-on">9</span>
+						  <input class="input-small height30" id="se9" type="text" />
+						  <input class="input-xlarge height30" type="text" id="query9"/>
+						  <button class="btn btn-clear" type="button">Clear</button>
+						</div>
+						<div class="input-prepend input-append">
+						  <span class="add-on">10</span>
+						  <input class="input-small height30" id="se10" type="text" />
+						  <input class="input-xlarge height30" type="text" id="query10"/>
+						  <button class="btn btn-clear" type="button">Clear</button>
+						</div>
+						
+					</p>
 
-<div class="row"></div>
-<div class="row">
-<div class="span2"></div>
-<div class="span8 hero-unit">
-<h2>Current Search Engines in use:</h2>
-<p>
-<select multiple="multiple">
-<option>baidu:http://www.baidu.com/s?wd=[KEYWORD]</option>
-<option>baidu baike:http://baike.baidu.com/search/word?word=[KEYWORD]</option>
-<option>baidu zhidao:http://zhidao.baidu.com/search?word=[KEYWORD]</option>
+					<p>
+						<button class="btn btn-primary btn-large" id="save">Save</button>
+						<button class="btn btn-large" id="reset">Reset to Default</button>
+					</p>
+				</div>
+			</div>
+			<div class="span4"></div>
+		</div>
+	</body>
 
-<option>google hongkong:http://www.google.com.hk/search?q=[KEYWORD]</option>
-<option>google taiwan:http://www.baidu.com/s?wd=[KEYWORD]</option>
-
-<option>wikipedia:http://en.wikipedia.org/w/index.php?title=Special:Search&search=[KEYWORD]</option>
-</select>
-</p>
-
-<div id="status"></div>
-
-<p>
-<button class="btn btn-primary btn-large" id="save">Save</button>
-</p>
-</span>
-<div class="span2"></div>
-</div>
-</body>
-
-<script src="jquery-1.10.2.min.js"></script>
-<script src="bootstrap/js/bootstrap.min.js"></script>
+	<script src="jquery-1.10.2.min.js"></script>
+	<script src="default.js"></script>
+	<script src="options.js"></script>
+	<script src="bootstrap/js/bootstrap.min.js"></script>
 </html>
