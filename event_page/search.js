@@ -21,25 +21,23 @@ chrome.runtime.onInstalled.addListener(function(){
     var title = "Search With";
     var id = chrome.contextMenus.create({"title" : title, "contexts" : [context],
                             "id" : "context"+context});
-    var SEs = getAvailabelSEs();
-    for (var i=0; i<SEs.length; i++){
-        var se = SEs[i];
-        chrome.contextMenus.create({"title" : se, "parentId" : id, "contexts" : [context],
-                            "id" : se});
+
+	var urls = JSON.parse(localStorage["urls"]) || default_search_enginees;
+
+    for (var i=0; i<urls.length; i++){
+        var url = urls[i];
+        chrome.contextMenus.create({"title" : url.se, "parentId" : id, "contexts" : [context],
+                            "id" : "se" + i});
     }
 });
 
 function onClickHandler(info, tab){
-    var selection = info.selectionText;
-    console.log(selection);
-    var SEs = getAvailabelSEs();
-    var clickedSEId = info.menuItemId;
-    if (SEs.indexOf(clickedSEId) >= 0){
-       var query = getSearchQueries(clickedSEId);
-       query = query.replace("[KEYWORD]", selection);
-        console.log(query);
-       window.open(query);
-    }
+	var selection = info.selectionText;
+	var clickedSEId = info.menuItemId.substr(2);
+	var urls = JSON.parse(localStorage["urls"]) || default_search_enginees;
+	var query = urls[clickedSEId].query;
+	query = query.replace("[KEYWORD]", selection);
+	window.open(query);
 }
 
 chrome.contextMenus.onClicked.addListener(onClickHandler);
