@@ -31,7 +31,7 @@ for(var i=0; i<inputs.length; i++){
 
 function load_user_ses(){
 	var defaults = default_search_enginees;
-	var urls = JSON.parse(localStorage["urls"]) || defaults;
+	var urls = get_urls();
 	var idx = 1;
 	for (var se in urls) {
 		var url = urls[se];

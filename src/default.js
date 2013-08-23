@@ -10,7 +10,7 @@ var default_search_enginees = [
 	{
 
         "se" : "Google Taiwan", 
-		"query" : "http://www.baidu.com/s?wd=[KEYWORD]"
+		"query" : "http://www.google.com.tw/search?q=[KEYWORD]"
 	},
 	{
 		"se" : "Bing",
@@ -45,3 +45,13 @@ var default_search_enginees = [
 	
 ];
 
+function get_urls() {
+    var urls = localStorage["urls"];
+    if (urls) {
+        urls = JSON.parse(urls);
+    }
+    else {
+        urls = default_search_enginees;
+    }
+    return urls;
+}
